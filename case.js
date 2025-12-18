@@ -1,5 +1,6 @@
 const school = "RAJ UK Uttara Model School"
 
+// toLowerCase() , toUpperCase()
 console.log(school.toLowerCase())
 console.log(school.toUpperCase())
 
@@ -7,20 +8,21 @@ const subject = "Chemistry"
 const book = "chemistry"
 
 
-if(subject.toLowerCase()===book.toLowerCase()){
+
+if (subject.toLowerCase() === book.toLowerCase()) {
     console.log("I am reading book aibar porikkhai fatai felmu")
 }
-else{
+else {
     console.log("hudai hudai prista ultai ar vat khawar jonno")
 }
 
 
-const drink ="water";
-const liquid =" water"
+const drink = "water";
+const liquid = " water"
 
-if(drink.trim() === liquid.trim()){
+if (drink.trim() === liquid.trim()) {
     console.log("Pani er opor nam life")
 }
-else{
+else {
     console.log("somudre pani ache, khaite parina")
 }
