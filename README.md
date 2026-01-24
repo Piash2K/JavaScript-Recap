@@ -1,4 +1,3 @@
-
 # 📘 JavaScript Recap
 
 A collection of **JavaScript practice files and snippets** covering core language concepts, loops, strings, objects, arrays, and more — perfect for refreshing your fundamentals! 🚀
